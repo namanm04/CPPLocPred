@@ -1,0 +1,21 @@
+Motifs:
+basic W basic sulfur
+W basic C
+aromatic R aromatic basic sulfur
+aromatic R aromatic basic C
+aromatic basic aromatic basic sulfur
+aromatic basic aromatic basic C
+basic aromatic K sulfur
+L aliphatic basic L A aliphatic
+R W basic sulfur
+R W basic C
+basic L aliphatic basic L A aliphatic
+basic L aliphatic basic aliphatic A aliphatic
+basic aliphatic aliphatic basic L A aliphatic
+basic W basic C
+W K sulfur
+aromatic R W basic sulfur
+aromatic R W basic C
+aromatic R aromatic K sulfur
+aromatic R aromatic K C
+aromatic basic W basic sulfur

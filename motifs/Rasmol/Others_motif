@@ -1,0 +1,21 @@
+Motifs:
+aromatic buried large small K
+cyclic buried large small K
+L acyclic aliphatic K buried
+L buried aliphatic K buried
+L buried aliphatic K hydrophobic
+L neutral aliphatic K buried
+L aliphatic aliphatic K buried
+L aliphatic aliphatic K hydrophobic
+L hydrophobic aliphatic K buried
+L hydrophobic aliphatic K hydrophobic
+L acyclic aliphatic K aliphatic
+L buried aliphatic K aliphatic
+L neutral aliphatic K aliphatic
+L aliphatic aliphatic K aliphatic
+L hydrophobic aliphatic K aliphatic
+aromatic aliphatic large small K
+cyclic aliphatic large small K
+acyclic A aliphatic surface L
+neutral A aliphatic surface L
+acyclic L buried I

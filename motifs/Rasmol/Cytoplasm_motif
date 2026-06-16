@@ -1,0 +1,21 @@
+Motifs:
+neutral R aromatic large medium
+acyclic acyclic F medium buried
+buried R buried basic medium
+buried R buried charged medium
+polar acyclic F medium hydrophobic
+buried R large basic medium
+neutral large aromatic surface C
+aromatic K neutral acyclic K
+R cyclic K neutral neutral
+polar polar F acyclic aliphatic
+neutral acyclic cyclic basic C
+neutral acyclic cyclic charged C
+neutral surface cyclic basic C
+neutral surface cyclic charged C
+neutral R buried large C
+neutral charged cyclic surface C
+neutral polar cyclic basic C
+neutral polar cyclic charged C
+acyclic surface F medium buried
+hydrophobic acyclic cyclic basic C

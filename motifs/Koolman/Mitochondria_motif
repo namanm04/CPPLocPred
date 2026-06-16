@@ -1,0 +1,21 @@
+Motifs:
+basic basic basic basic basic basic basic basic
+aliphatic L R
+L basic Q
+aliphatic Y aliphatic
+aliphatic aromatic aliphatic aliphatic
+basic basic basic basic basic basic basic basic basic
+L aliphatic neutral
+L aliphatic neutral aliphatic
+aliphatic aliphatic R aliphatic
+aliphatic aliphatic R aliphatic aliphatic
+aliphatic aromatic L aliphatic
+F T
+aromatic aliphatic L
+aromatic T
+neutral basic I
+neutral basic aliphatic aliphatic
+basic aliphatic aliphatic basic K
+A aliphatic basic neutral
+G aliphatic R basic
+G aliphatic R basic basic

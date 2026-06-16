@@ -1,0 +1,21 @@
+Motifs:
+acyclic acyclic acyclic C G
+acyclic acyclic C G
+surface acyclic acyclic C G
+large surface C hydrophobic
+C G charged
+acyclic C G surface
+polar acyclic acyclic C G
+C small surface polar surface
+C small R
+acyclic C G surface surface
+aliphatic medium G polar
+C small surface large surface
+C aliphatic charged surface acyclic
+C aliphatic charged surface polar
+C G basic
+C G R
+C G charged surface
+medium G basic surface
+neutral polar surface C hydrophobic
+neutral medium cyclic neutral medium
